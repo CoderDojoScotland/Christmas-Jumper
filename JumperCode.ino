@@ -11,15 +11,12 @@ This code is licensed as Creative Commons share-alike (http://creativecommons.or
 */
 
 // Variables to store the pin numbers
-int speakerPin = 7;
-int buttonPin = A5;
-int led1 = 5;
-int led2 = 6;
-int led3 = A2;
-int led4 = A4;
-int redPin = 9;
-int bluePin = 10;
-int greenPin = 11;
+int speakerPin = A2;
+int buttonPin = A3;
+int led1 = 10;
+int led2 = 11;
+int led3 = A4;
+int led4 = A5;
 
 int buttonState = LOW;
 boolean buttonClear = true;
