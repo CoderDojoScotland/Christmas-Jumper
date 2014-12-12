@@ -32,4 +32,7 @@ Instructions for how to create a programmable Christmas Jumper using an Arduino 
   <li>Don't forget to enjoy your mince pie</li>
 </ol>
 
+## Instructional Video
+<a href="https://www.youtube.com/watch?v=vG_N_C4P5Ac&feature=youtu.be"><img src="http://img.youtube.com/vi/vG_N_C4P5Ac/0.jpg"/></a>
+
 
