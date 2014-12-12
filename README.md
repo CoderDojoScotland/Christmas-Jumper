@@ -26,7 +26,7 @@ Instructions for how to create a programmable Christmas Jumper using an Arduino 
 ## Steps
 <ol>
   <li>Load the <a href="JumperCode.ino">code</a> onto the Arduino</li>
-  <li>Sew in the components to the Christmas jumper</li>
+  <li>Sew in the components to the Christmas jumper following the <a href="CircuitDiagram.pdf">circuit diagram</a></li>
   <li>Plug in the battery</li>
   <li>Show off your jumper to all your friends and family</li>
   <li>Don't forget to enjoy your mince pie</li>
